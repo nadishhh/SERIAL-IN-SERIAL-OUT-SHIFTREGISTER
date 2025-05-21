@@ -1,5 +1,7 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
+Developed by:AADHITHAN B RegisterNumber: 212224040001
+
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -56,7 +58,7 @@ q[3] <= q[2];
 end
 endmodule
 ```
-Developed by:AADHITHAN B RegisterNumber: 212224040001
+
 
 */
 
