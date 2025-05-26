@@ -1,6 +1,7 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
-Developed by:AADHITHAN B RegisterNumber: 212224040001
+Developed by: NADISH.S 
+RegisterNumber: 212224050023
 
 **AIM:**
 
