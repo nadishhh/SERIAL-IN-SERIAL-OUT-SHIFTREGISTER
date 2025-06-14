@@ -1,7 +1,8 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+### name: S.NADISH
+### REG NO:212224050023
+### DATE: 13/05/2025 
 
-Developed by: NADISH.S 
-RegisterNumber: 212224050023
 
 **AIM:**
 
